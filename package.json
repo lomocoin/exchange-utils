@@ -1,6 +1,6 @@
 {
-  "name": "eunex-stores",
-  "version": "0.1.0",
+  "name": "exchange-utils",
+  "version": "1.0.1",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "typings": "./dist/index.d.ts",

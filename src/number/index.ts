@@ -6,10 +6,4 @@ import multiply from './multiply';
 import getUnit from './getUnit';
 import getFixedValue from './getFixedValue';
 
-export enum PrecisionType {
-  TokenPrice = 8,
-  FiatPrice = 2,
-  Increase = 3,
-}
-
-export { ceil, floor, range, divide, multiply, getUnit, getFixedValue };
+export default { ceil, floor, range, divide, multiply, getUnit, getFixedValue };

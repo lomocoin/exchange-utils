@@ -1,4 +1,5 @@
-import { ceil } from './';
+import number from './';
+const { ceil } = number;
 
 const units = ['', 'K', 'M', 'B'];
 

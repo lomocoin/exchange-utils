@@ -1,9 +1,5 @@
-import { SortDirection } from './';
+import { SortDirection, IInput } from './';
 import getNestedObject from './getNestedObject';
-
-interface IInput {
-  [key: string]: any;
-}
 
 export default (
   fieldName: string,

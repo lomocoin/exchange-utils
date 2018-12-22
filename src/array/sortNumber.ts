@@ -1,8 +1,4 @@
-import { SortDirection } from './';
-
-interface IInput {
-  [key: string]: any;
-}
+import { SortDirection, IInput } from './';
 
 export default (
   fieldName: string,
