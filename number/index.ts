@@ -6,4 +6,4 @@ import multiply from './multiply';
 import getUnit from './getUnit';
 import getFixedValue from './getFixedValue';
 
-export default { ceil, floor, range, divide, multiply, getUnit, getFixedValue };
+export { ceil, floor, range, divide, multiply, getUnit, getFixedValue };

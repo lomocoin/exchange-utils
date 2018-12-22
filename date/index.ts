@@ -6,7 +6,7 @@ import time from './time';
 import datetime from './datetime';
 import datetimeWithoutYear from './datetimeWithoutYear';
 
-export default {
+export {
   moment,
   parseLocale,
   date,

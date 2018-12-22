@@ -12,4 +12,4 @@ export interface IInput {
   [key: string]: any;
 }
 
-export default { unique, getNestedObject, sortNumber, sortString };
+export { unique, getNestedObject, sortNumber, sortString };
