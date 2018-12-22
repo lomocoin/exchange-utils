@@ -8,7 +8,6 @@
     "importHelpers": true,
     "alwaysStrict": true,
     "target": "es5",
-    "outDir": "dist",
     "noEmitOnError": true,
     "strict": true,
     "noImplicitAny": true,
@@ -26,6 +25,5 @@
       "*": ["node_modules/*"]
     }
   },
-  "include": ["src/**/*"],
-  "exclude": ["dist"]
+  "include": ["**/*.ts"]
 }
