@@ -1,4 +1,4 @@
-import { SortDirection } from '../../declares';
+import { SortDirection } from './';
 
 interface IInput {
   [key: string]: any;

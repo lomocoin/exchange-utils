@@ -1,4 +1,4 @@
-import { SortDirection } from '../../declares';
+import { SortDirection } from './';
 import getNestedObject from './getNestedObject';
 
 interface IInput {
