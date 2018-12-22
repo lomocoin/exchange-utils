@@ -12,7 +12,8 @@
     "build": "tsc",
     "prebuild": "rm -rf ./dist",
     "prepublish": "npm run build",
-    "test": "jest"
+    "test": "jest",
+    "addtag": "git tag -a"
   },
   "dependencies": {
     "big.js": "^5.2.2",
