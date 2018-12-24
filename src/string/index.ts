@@ -15,7 +15,7 @@ import {
 } from './stringValid';
 import { stringToBool } from './stringConverter';
 
-export default {
+export {
   getNumberFromString,
   getDecimals,
   parsePrice,

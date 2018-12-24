@@ -1,9 +1,7 @@
 {
   "name": "exchange-utils",
   "version": "1.0.1",
-  "main": "./dist/index.js",
-  "module": "./dist/index.js",
-  "typings": "./dist/index.d.ts",
+  "main": "./dist",
   "repository": "git@gitlab.lomocoin.com:front-end-master/exchange-stores.git",
   "author": "ZhangRGK <stamen0630@gmail.com>",
   "license": "MIT",
