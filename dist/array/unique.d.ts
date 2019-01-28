@@ -1,2 +1,2 @@
-declare const _default: <T>(array: T[]) => Set<T>[];
+declare const _default: <T>(array: T[]) => T[];
 export default _default;
