@@ -1,1 +1,1 @@
-export default (array: any[]) => [...Array.of(new Set<any>(array))];
+export default <T>(array: T[]) => [...Array.of(new Set<T>(array))];
